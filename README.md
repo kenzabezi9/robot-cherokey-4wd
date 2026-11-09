@@ -1,6 +1,6 @@
 # Robot mobile autonome, Cherokey 4WD
 
-Projet de L2 EEA à l'Université Côte d'Azur, réalisé en binôme (mai 2026). Le robot sort d'un labyrinthe avec un capteur à ultrasons, ou suit un objet avec une caméra HuskyLens. Ces deux modes sont deux firmwares séparés, qui ne tournent pas en même temps.
+Projet de licence EEA à l'Université Côte d'Azur, réalisé en binôme. Le robot sort d'un labyrinthe avec un capteur à ultrasons, ou suit un objet avec une caméra HuskyLens. Ces deux modes sont deux firmwares séparés, qui ne tournent pas en même temps.
 
 ![Capteur à ultrasons monté sur son servomoteur](docs/robot-capteur-servo.jpg)
 
@@ -9,7 +9,7 @@ Projet de L2 EEA à l'Université Côte d'Azur, réalisé en binôme (mai 2026).
 | Partie | Responsable |
 |---|---|
 | Firmware de navigation (`firmware/navigation`) | Kenza Bezi |
-| Firmware de suivi par caméra (`firmware/suivi-camera`) | Ma binôme |
+| Firmware de suivi par caméra (`firmware/suivi-camera`) | Partagé |
 | Fiche technique | Kenza Bezi |
 | Présentation | Ma binôme |
 | Assemblage, câblage, essais, débogage | Partagés |
